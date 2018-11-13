@@ -9,3 +9,9 @@ I have no idea what is happening on here but it is interesting.
 Some people call me Chad Whalesong.
 
 :whale:
+
+Likes | Dislikes
+----- | --------
+Flannels|Winter
+Bread Cats|Pollution
+
