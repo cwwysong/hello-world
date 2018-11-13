@@ -6,4 +6,6 @@ I have no idea what is happening on here but it is interesting.
 
 ### Self Portrait
 
+Some people call me Chad Whalesong.
+
 :whale:
