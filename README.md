@@ -1,4 +1,4 @@
-# hello-world
+# HELLO WORLD
 
 _Place to get familiar with **GitHub**_
 
@@ -13,5 +13,8 @@ Likes | Dislikes
 Flannels|Winter
 Bread Cats|Pollution
 Baskerville|Comic Sans
-Blankets|Hillbillies
+Semi-sweet Chocolate Chips|Hillbillies
 
+### Skills
+- proficient napper
+- average shuffleboard player
